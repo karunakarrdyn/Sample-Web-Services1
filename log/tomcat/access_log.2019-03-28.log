@@ -1,0 +1,8 @@
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-1 POST /inbound/sms STATUS:200 TIME:453 BYTES:50
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-3 POST /inbound/sms STATUS:403 TIME:30 BYTES:121
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-4 POST /outbound/sms STATUS:200 TIME:15 BYTES:51
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-6 POST /inbound/sms STATUS:200 TIME:14 BYTES:50
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-8 POST /outbound/sms STATUS:423 TIME:13 BYTES:99
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-9 POST /outbound/sms STATUS:200 TIME:14 BYTES:51
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-1 POST /outbound/sms STATUS:200 TIME:13 BYTES:51
+[28/Mar/2019:14:22:57 +0530] 127.0.0.1 http-nio-auto-1-exec-3 POST /outbound/sms STATUS:429 TIME:12 BYTES:72
